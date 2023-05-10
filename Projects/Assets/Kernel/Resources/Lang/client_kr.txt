@@ -1,0 +1,127 @@
+﻿cd_tutorial=배우기
+
+장비=장비
+
+Missions=Missions
+Big_Experience=Big Experience
+REWARD=REWARD
+MissionSet_Number=MissionSet Number
+Exp=Exp
+StartRun=StartRun
+pfDlgMss_txtHint=Mission can be skip in the Shop
+
+pfDlgFood_food=Recover some HP.
+pfDlgFood_supperfood=Recover full HP.
+Buy=Buy
+SUPER_FOOD=SUPER FOOD
+pfDlgFood_label0=You will get a bit of Exp too.
+pfDlgFood_label1=You will get 100 Exp too.
+
+Stunts=Stunts
+Pets=Pets
+Characters=Characters
+Awards=Awards
+Required_level=Required level
+Fan_evel=Fan level
+Action_time=Action time
+V_Run=V Run
+SELECT=SELECT
+SELECTED=SELECTED
+Normal=Normal
+Good=Good
+Super=Super
+First_Multi=First Multi
+Level=Level
+First_Body=First Body
+Swift_Horse=Swift Horse
+Free_Gift=Free
+ Gift
+Jack=Jack
+ScoreAttainment=ScoreAttainment
+pfDlgMe_txtScoreContent=Can you arrive target score like this point ?
+Get_Award=Get Award
+CoinCounter=CoinCounter
+pfDlgMe_txtCoinContent=Can you get this coins
+ in one run ?
+PerformStunt=PerformStunt
+pfDlgMe_txtStuntContent=Can you perform stunts like this 
+count?
+Kinds_Pet=Kinds Pet
+ClothCounter=ClothCounter
+pfDlgMe_txtPetContent=Can you keep the pets like this count?
+SkinCounter=SkinCounter
+pfDlgMe_txtClothContent=Can you keep the cloths like this count?
+pfDlgMe_txtskinContent=Can you use the skins like this count in one run?
+CompleteMisson=CompleteMisson
+pfDlgMe_txtMissionContent=Can you complete the missions like this count?
+LevelUp=LevelUp
+pfDlgMe_txtLevelContent=Can you arrive your LV
+ like this LV?
+BuyStunt=BuyStunt
+pfDlgMe_txtBuyStuntContent=Can you buy the stunts like this counts?
+
+
+Mission_Complete=Mission Complete
+
+pfDlgOkCancel_txtQuit=Are you sure to quit game?
+
+Daily_Challenge=Daily Challenge
+Resume=Resume
+Mission_Set_3=Mission Set 3
+pfDlgPause_BottomLabel=If you finish missions, you will get much Exp.
+30%_Done=30% Done
+Collect_Numbers=Collect Numbers
+
+Save_me!=Save me!
+
+pfDlgResult_txtHint=Mission can be skip in the Shop
+Friends=Friends
+High_Scores=High Scores
+Top_Level=Top Level
+
+pfDlgSetNtf_lbCmp=Mission 
+Set Complete
+
+pfDlgSetting_txtEmail=support@kccai.com
+
+Upgrade=Upgrade
+Buy_Items=Buy Items
+SHIELD=SHIELD
+You_have:=You have:
+pfDlgShop_SfSkin=Protect yourself from
+crashing for 30 seconds
+Activate by double tapping.
+FOOD=FOOD
+pfDlgShop_Food=Increase the health point
+of pet by 5 for one use.
+SUPER_FOOD=SUPER FOOD
+pfDlgShop_SprFood=Increase the health point
+of pet by 10% of full.
+HEAD_START=HEAD START
+pfDlgShop_HeadStart=Use up to 3 to skip ahead
+and start running at higher
+speed.
+SCORE BOOSTER=SCORE BOOSTER
+pfDlgShop_ScoBooster=Increase your multiplier
+by 5 for one run.
+SKIP_MISSION1=SKIP MISSION1
+pfDlgShop_Mission1_text=Skip current mission 1.
+pfDlgShop_Mission1=Skip your current mission 1.
+SKIP_MISSION2=SKIP MISSION2
+pfDlgShop_Mission2_text=Skip current mission 2.
+pfDlgShop_Mission2=Skip your current mission 2.
+SKIP_MISSION3=SKIP MISSION3
+pfDlgShop_Mission3_text=Skip current mission 3.
+pfDlgShop_Mission3=Skip your current mission 3.
+GLIDING=GLIDING
+COIN_MAGNET=COIN MAGNET
+SHIELD=SHIELD
+SHIELD_COOLTIME=SHIELD COOLTIME
+SCORE_BOOSTER=SCORE BOOSTER
+BALLOON=BALLOON
+pfDlgShop_SfSkin=Increase shield using time.
+pfDlgShop_SfSkinCoolTm=Reduce shield cooltime.
+pfDlgShop_Coin_magnet=Increase magnet using time.
+pfDlgShop_ScrBootster=Increase your multiplier
+by 5 for one run.
+

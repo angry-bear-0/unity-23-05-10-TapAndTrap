@@ -1,0 +1,13 @@
+Projects/Library/.vs
+Projects/Library/
+Projects/Logs/
+Projects/obj/
+Projects/Packages/
+
+Projects/.vsconfig
+Projects/Assembly-CSharp-Editor.csproj
+Projects/Assembly-CSharp.csproj
+Projects/MyProject.sln
+
+
+

@@ -1,0 +1,182 @@
+Missions=Missions
+Big_Experience=Big Experience
+REWARD=REWARD
+MissionSet_Number=MissionSet Number
+uiHome=Home
+uiStartRun=Start Run
+pfDlgMss_txtHint=Mission can be skip in the Shop
+
+pfDlgFood_food=Recover a few HP.
+pfDlgFood_supperfood=Recover full HP.
+Feed=Feed
+Buy=Buy
+
+Stunts=Stunt
+Pets=Pet
+Characters=Character
+Awards=Award
+Required_level=Need Level
+Fan_level=Cheers
+Action_time=Input Time
+SELECT=SELECT
+V_Run=V Run
+SELECTED=SELECTED
+Normal=Normal
+Good=Good
+Super=Super
+NeedLevel=Need Level
+Stamina=Max HP
+First_Multi=Initial Multi
+Free_Gift=Free\nGift
+
+Mission_Complete=Mission Complete
+
+pfDlgOkCancel_txtQuit=Are you sure to quit game?
+
+Daily_Challenge=Daily Challenge
+Resume=Resume
+Mission_Set_3=Mission Set 3
+pfDlgPause_BottomLabel=If you finish missions, you will get much Exp.
+30%_Done=30% Done
+Collect_Numbers=Collect Numbers
+
+Save_me=Save me!
+
+Friends=Friends
+High_Scores=High Scores
+Top_Level=Top Level
+
+pfDlgSetNtf_lbCmp=Mission 
+Set Complete
+
+pfDlgSetting_txtEmail=support@ashergem.com
+
+uiItem=Item
+uiUpgrade=Upgrade
+uiTreasure=Treasure
+uiCount=Count :
+Shield=SHIELD
+ShieldDesc=Protect a player from crashing for 30 seconds.\nDouble tap to activate.
+Food=FODDER
+FoodDesc=Recover the HP by 5 for one use.
+SuperFood=SUPER FODDER
+SuperFoodDesc=Recover the full HP for one use.
+HeadStart=HEAD START
+HeadStartDesc=Fly with high speed for a while when start run.
+ScoreBooster=SCORE BOOSTER
+ScoreBoosterDesc=Player can get additional multiplier by {0} for one run. Tap the item to use when start run.
+SkipMission=SKIP MISSION {0}
+SkipMissionDesc=You can skip difficult mission {0} and do other mission {0}.
+SkipMissionLbl=Want to skip?
+
+FlyingUpgrade=FLYING TIME
+FlyingUpgradeDesc=Player can fly for {0}s. Upgrading increases flying time by {1}s.
+MagnetUpgrade=MAGNET TIME
+MagnetUpgradeDesc=Player can pull coins by activating magnet for {0}s. Upgrading increases activating duration by {1}s.
+ShieldUpgrade=SHIELD TIME
+ShieldUpgradeDesc=Player can activate the shield for {0}s. Upgrading increases activating duration by {1}s.
+ShieldUpgradeCoolTime=SHIELD COOLTIME
+ShieldUpgradeCoolTimeDesc=Player can activate the shield again in {0}s. Upgrading decreases cool time by {1}s.
+ScoreBoosterUpgrade=SCORE BOOSTER
+ScoreBoosterUpgradeDesc=Player can get additional multiplier by {0}. Upgrading increases additional multiplier by {1}.
+BalloonUpgrade=BALLOON TIME
+BalloonUpgradeDesc=Player can jump higher by ballon for {0}s. Upgrading increases activating duration by {1}s.
+DoubleCoinUpgrade=DOUBLE COIN TIME
+DoubleCoinUpgradeDesc=Player can earn double coins after pick up 2X Coin item for {0}s. Upgrading increases activating duration by {1}s.
+msgConfirmBuy=Are you sure to buy an item?
+
+CoinStack=COIN STACK
+CoinStackDesc=[0E3E5A]Buy [FFBD00]10,000[-] coins.
+CoinBag=COIN BAG
+CoinBagDesc=[0E3E5A]Buy [FFBD00]115,000[-] coins.
+GemStack=GEM STACK
+GemStackDesc=[0E3E5A]Buy [FF2388]40[-] gems.
+GemBag=GEM BAG
+GemBagDesc=[0E3E5A]Buy [FF2388]320[-] gems.
+VipPack=VIP PACK
+Sale=Sale
+RateUs=RATE US
+RateUsDesc=[0E3E5A]Claim free [FF2388]80[-] gems.
+GamePage=GAME PAGE
+ClaimFreeCoin=[0E3E5A]Claim free [FFBD00]1,000[-] coins.
+ClaimFreeGem=[0E3E5A]Claim free [FF2388]10[-] gems.
+WatchVideo=WATCH VIDEO
+WatchAdd=WATCH VIDEO
+ShareFacebook=SHARE FACEBOOK
+Visit=VISIT
+Watch=WATCH
+Share=SHARE
+Rate=RATE
+
+cdAwdTitleScoreHunter=Score Hunter
+cdAwdDescScoreHunter=Can you get {0} points in one run?
+cdAwdTitleCoinCollector=Coin Collector
+cdAwdDescCoinCollector=Can you earn {0} coins in one run?
+cdAwdTitleStuntPerformer=Stunt Performer
+cdAwdDescStuntPerformer=Can you do the stunt {0} times in one run?
+cdAwdTitlePetFancier=Pet Fancier
+cdAwdDescPetFancier=Did you buy {0} pets?
+cdAwdTitleFashionista=Fashionista
+cdAwdDescFashionista=Did you buy {0} clothes?
+cdAwdTitleCarefulPerformer=Careful Performer
+cdAwdDescCarefulPerformer=Can you use shield {0} times in one run?
+cdAwdTitleMissionMaster=Mission Master
+cdAwdDescMissionMaster=Did you complete {0} mission sets?
+cdAwdTitleHiLvlGamer=Hi-Level Gamer
+cdAwdDescHiLvlGamer=Is your level {0}?
+cdAwdTitleStuntMaster=Stunt Master
+cdAwdDescStuntMaster=Did you buy {0} stunts?
+
+uiClaim=Claim
+uiClaimed=Claimed
+uiLevel=Lv.{0}
+uiMsgNoFood=No enough fodder.
+uiMsgNoSuperFood=No enough super fodder.
+uiMsgFullHP=HP is full, so you don't need to feed.
+uiMsgLevelup=Level up!
+uiMsgNoEnoughCoin=No enought coin.
+uiMsgNoEnoughGold=No enought gem.
+uiMsgConfirmConsumeCoins=Are you sure to consume {0} coins?
+uiMsgConfirmConsumeGolds=Are you sure to consume {0} gems?
+
+uiMissionSet=MISSION SET
+uiMission1=MISSION 1
+uiMission2=MISSION 2
+uiMission3=MISSION 3
+uiMissionHint=Complete 3 missions to level up. Level is added to a score multiplier for higher score, so level is very important. You can skip individual missions in a Shop window.
+uiMaxLevel=Max Level
+cdMssEarnCoinOneRun=Earn {0} coins in one run
+cdMssJumpOneRun=Jump {0} times in one run
+cdMssRollOneRun=Roll {0} times in one run
+cdMssMagnetOneRun=Pick up {0} magnets in one run
+cdMssTrampolineOneRun=Pick up {0} Trampolines in one run
+cdMssBallonOneRun=Pick up {0} balloons in one run
+cdMssShieldOneRun=Use shield {0} times in one run
+cdMssChangeLaneOneRun=Change the lane {0} times in one run
+cdMssStuntOneRun=Stunt {0} times in one run
+cdMssWaveHandOneRun=Wave hand {0} times in one run
+cdMssStumbleOneRun=Stumble {0} times in one run
+cdMssX2OneRun=Pick up {0} double-coin items
+cdMssFlyOneRun=Fly {0} times
+cdMssRunWithoutCoin=Run {0}m without picking up any coin
+cdMssRunWithoutRoll=Run {0}m without rolling
+cdMssRunWithoutChangeLane=Run {0}m without changing the lane
+cdMssRunWithoutJumping=Run {0}m without jumping
+cdMssRunWithoutStunting=Run {0}m without stunting
+cdMssRunWithoutStumble=Run {0}m without any crash
+cdMssRunWithoutShield=Run {0}m without using shield
+cdMssRebirthOneRun=Rebirth {0} times in one run
+cdMssFood=Feed a pet {0} foods
+cdMssMagnet=Pick up {0} magnets
+cdMssX2=Pick up {0} double-coin items
+cdMssStunt=Stunt {0} times
+cdMssCoins=Earn {0} coins
+cdMssStumbles=Stumble {0} times
+cdMssTrampoline=Pick up {0} Trampoline
+cdMssFlys=Fly {0} times
+cdMssShields=Use shield {0} times
+cdMssRebirthes=Rebirth {0} times
+cdMssSuperFoods=Feed a pet {0} super-foods
+cdMssHeadStarts=Use a head start {0} times
+
+

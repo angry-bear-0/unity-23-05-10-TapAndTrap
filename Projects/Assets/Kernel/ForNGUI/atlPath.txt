@@ -1,0 +1,44 @@
+{"frames": {
+
+"shape05_btm.png":
+{
+	"frame": {"x":480,"y":2,"w":460,"h":284},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":25,"y":112,"w":460,"h":284},
+	"sourceSize": {"w":512,"h":512}
+},
+"shape05_top.png":
+{
+	"frame": {"x":2,"y":2,"w":475,"h":297},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":106,"w":475,"h":297},
+	"sourceSize": {"w":512,"h":512}
+},
+"shape06_top.png":
+{
+	"frame": {"x":943,"y":2,"w":434,"h":434},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":44,"y":42,"w":434,"h":434},
+	"sourceSize": {"w":512,"h":512}
+},
+"shape_none.png":
+{
+	"frame": {"x":480,"y":289,"w":4,"h":4},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":4,"h":4},
+	"sourceSize": {"w":4,"h":4}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "G:/23-04-48-Rocket/Projects/MyProject/Assets/Kernel/ForNGUI/atlPath.png/atlPath.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":2048},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:69c37d66a4feaba499382d47de9ab3b8:692d907ba44599e25b7cb1d1a581a821:c2a7400d84a7bbe1d2945dcf9bb2ee38$"
+}
+}

@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 125b9f6e6906d6e4897a443b3c12729c, type: 3}
+  m_Name: atlPath
+  m_EditorClassIdentifier: 
+  material: {fileID: 2100000, guid: ddd9b652b4149a24283339879d6f2c9f, type: 2}
+  mSprites:
+  - name: shape_none
+    x: 480
+    y: 289
+    width: 4
+    height: 4
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+    clipX: 0
+    clipY: 0
+    clipWidth: 0
+    clipHeight: 0
+  - name: shape05_btm
+    x: 480
+    y: 2
+    width: 460
+    height: 284
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 25
+    paddingRight: 27
+    paddingTop: 112
+    paddingBottom: 116
+    clipX: 0
+    clipY: 0
+    clipWidth: 0
+    clipHeight: 0
+  - name: shape05_top
+    x: 2
+    y: 2
+    width: 475
+    height: 297
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 17
+    paddingRight: 20
+    paddingTop: 106
+    paddingBottom: 109
+    clipX: 0
+    clipY: 0
+    clipWidth: 0
+    clipHeight: 0
+  - name: shape06_top
+    x: 943
+    y: 2
+    width: 434
+    height: 434
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 44
+    paddingRight: 34
+    paddingTop: 42
+    paddingBottom: 36
+    clipX: 0
+    clipY: 0
+    clipWidth: 0
+    clipHeight: 0
+  mPixelSize: 1
+  mReplacement: {fileID: 0}

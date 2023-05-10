@@ -1,0 +1,177 @@
+Missions=任务
+Big_Experience=大量的经验值
+REWARD=奖励
+MissionSet_Number=任务套号
+Exp=经验
+StartRun=酷跑开始
+pfDlgMss_txtHint=可略过任务在商城。
+
+pfDlgFood_food=恢复有些体力
+pfDlgFood_supperfood=恢复完全体力
+Feed=喂养
+Buy=购买
+SUPER_FOOD=高级饲料
+pfDlgFood_label0=你也获得有些经验。
+pfDlgFood_label1=你也获得100经验。
+
+Stunts=特技
+Pets=宠物
+Characters=人物
+Awards=奖励
+Required_level=必要等级
+Fan_level=欢呼度
+Action_time=输入时间
+V_Run=V Run
+SELECT=选择
+SELECTED=已选择
+Normal=一般
+Good=中级
+Super=高级
+Level=等级
+Stamina=坐骑体力
+First_Multi=初期倍数
+Free_Gift=免费\n礼品
+ScoreAttainment=目标分数
+pfDlgMe_txtScoreContent=你能达到这目标分数吗？
+Get_Award=领取
+CoinCounter=金币富人
+pfDlgMe_txtCoinContent=一次酷跑中你能获得这么多金币吗？
+PerformStunt=表演特技
+pfDlgMe_txtStuntContent=你能这么多表演吗？
+Kinds_Pet=照料宠物
+pfDlgMe_txtPetContent=你能真么多照料宠物吗?
+ClothCounter=ClothCounter
+pfDlgMe_txtClothContent=Can you keep the cloths like this count?
+SkinCounter=SkinCounter
+pfDlgMe_txtskinContent=Can you use the skins like this count in one run?
+CompleteMisson=CompleteMisson
+pfDlgMe_txtMissionContent=Can you complete the missions like this count?
+LevelUp=LevelUp
+pfDlgMe_txtLevelContent=Can you arrive your LV like this LV?
+BuyStunt=BuyStunt
+pfDlgMe_txtBuyStuntContent=Can you buy the stunts like this counts?
+
+Mission_Complete=Mission Complete
+
+pfDlgOkCancel_txtQuit=Are you sure to quit game?
+
+Daily_Challenge=Daily Challenge
+Resume=Resume
+Mission_Set_3=Mission Set 3
+pfDlgPause_BottomLabel=If you finish missions, you will get much Exp.
+30%_Done=30% Done
+Collect_Numbers=Collect Numbers
+
+Save_me!=Save me!
+
+pfDlgResult_txtHint=Mission can be skip in the Shop
+Friends=Friends
+High_Scores=High Scores
+Top_Level=Top Level
+
+pfDlgSetNtf_lbCmp=Mission 
+Set Complete
+
+pfDlgSetting_txtEmail=support@kjh.com
+
+Upgrade=Upgrade
+Buy_Items=Buy Items
+SHIELD=SHIELD
+You_have:=You have:
+pfDlgShop_SfSkin=Protect yourself from crashing for 30 seconds Activate by double tapping.
+FOOD=饲料
+pfDlgShop_Food=Increase the health point of pet by 5 for one use.
+SUPER_FOOD=高级饲料
+pfDlgShop_SprFood=Increase the health point of pet by 10% of full.
+HEAD_START=HEAD START
+pfDlgShop_HeadStart=Use up to 3 to skip ahead and start running at higher speed.
+SCORE BOOSTER=SCORE BOOSTER
+pfDlgShop_ScoBooster=Increase your multiplier by 5 for one run.
+SKIP_MISSION1=SKIP MISSION1
+pfDlgShop_Mission1_text=Skip current mission 1.
+pfDlgShop_Mission1=Skip your current mission 1.
+SKIP_MISSION2=SKIP MISSION2
+pfDlgShop_Mission2_text=Skip current mission 2.
+pfDlgShop_Mission2=Skip your current mission 2.
+SKIP_MISSION3=SKIP MISSION3
+pfDlgShop_Mission3_text=Skip current mission 3.
+pfDlgShop_Mission3=Skip your current mission 3.
+GLIDING=GLIDING
+COIN_MAGNET=COIN MAGNET
+SHIELD=SHIELD
+SHIELD_COOLTIME=SHIELD COOLTIME
+SCORE_BOOSTER=SCORE BOOSTER
+BALLOON=BALLOON
+pfDlgShop_SfSkin=Increase shield using time.
+pfDlgShop_SfSkinCoolTm=Reduce shield cooltime.
+pfDlgShop_Coin_magnet=Increase magnet using time.
+pfDlgShop_ScrBootster=Increase your multiplier by 5 for one run.
+
+msgConfirmBuy=您确定要购买商品吗？
+
+cdAwdTitleScoreHunter=Score Hunter
+cdAwdDescScoreHunter=Can you get {0} points in one run?
+cdAwdTitleCoinCollector=Coin Collector
+cdAwdDescCoinCollector=Can you earn {0} coins in one run?
+cdAwdTitleStuntPerformer=Stunt Performer
+cdAwdDescStuntPerformer=Can you do the stunt {0} times in one run?
+cdAwdTitlePetFancier=Pet Fancier
+cdAwdDescPetFancier=Did you buy {0} pets?
+cdAwdTitleFashionista=Fashionista
+cdAwdDescFashionista=Did you buy {0} clothes?
+cdAwdTitleCarefulPerformer=Careful Performer
+cdAwdDescCarefulPerformer=Can you use shield {0} times in one run?
+cdAwdTitleMissionMaster=Mission Master
+cdAwdDescMissionMaster=Did you complete {0} missions?
+cdAwdTitleHiLvlGamer=Hi-Level Gamer
+cdAwdDescHiLvlGamer=Is your level {0}?
+cdAwdTitleStuntMaster=Stunt Master
+cdAwdDescStuntMaster=Did you buy {0} stunts?
+
+uiClaim=Claim
+uiClaimed=Claimed
+uiLevel={0}级
+uiMsgNoFood=No enough fodder.
+uiMsgNoSuperFood=No enough super fodder.
+uiMsgFullHP=HP is full, so you don't need to feed.
+uiMsgLevelup=Level up!
+
+uiMission1=MISSION 1
+uiMission2=MISSION 2
+uiMission2=MISSION 3
+
+cdMssEarnCoinOneRun=Earn {0} coins in one run
+cdMssJumpOneRun=Jump {0} times in one run
+cdMssRollOneRun=Roll {0} times in one run
+cdMssMagnetOneRun=Pick up {0} magnets in one run
+cdMssTrampolineOneRun=Pick up {0} Trampolines in one run
+cdMssBallonOneRun=Pick up {0} balloons in one run
+cdMssShieldOneRun=Use shield {0} times in one run
+cdMssChangeLaneOneRun=Change the lane {0} times in one run
+cdMssStuntOneRun=Stunt {0} times in one run
+cdMssWaveHandOneRun=Wave hand {0} times in one run
+cdMssStumbleOneRun=Stumble {0} times in one run
+cdMssX2OneRun=Pick up {0} double-coin items
+cdMssFlyOneRun=Fly {0} times
+cdMssRunWithoutCoin=Run {0}m without picking up any coin
+cdMssRunWithoutRoll=Run {0}m without rolling
+cdMssRunWithoutChangeLane=Run {0}m without changing the lane
+cdMssRunWithoutJumping=Run {0}m without jumping
+cdMssRunWithoutStunting=Run {0}m without stunting
+cdMssRunWithoutStumble=Run {0}m without any crash
+cdMssRunWithoutShield=Run {0}m without using shield
+cdMssRebirthOneRun=Rebirth {0} times in one run
+cdMssFood=Feed a pet {0} foods
+cdMssMagnet=Pick up {0} magnets
+cdMssX2=Pick up {0} double-coin items
+cdMssStunt=Stunt {0} times
+cdMssCoins=Earn {0} coins
+cdMssStumbles=Stumble {0} times
+cdMssTrampoline=Pick up {0} Trampoline
+cdMssFlys=Fly {0} times
+cdMssShields=Use shield {0} times
+cdMssRebirthes=Rebirth {0} times
+cdMssSuperFoods=Feed a pet {0} super-foods
+cdMssHeadStarts=Use a head start {0} times
+
+
